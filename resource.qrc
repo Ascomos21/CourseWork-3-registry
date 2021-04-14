@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>help.png</file>
+        <file>information.png</file>
+        <file>layer_save.png</file>
+        <file>recover_deleted_items.png</file>
+        <file>save_as.png</file>
+        <file>saved_imports.png</file>
+        <file>saveReg.png</file>
+        <file>google_custom_search.png</file>
+        <file>stop.png</file>
+        <file>regular_expression_search.png</file>
+        <file>file_extension_bat.png</file>
+        <file>drawIcon.png</file>
+        <file>regedit-icon-125.png</file>
+        <file>regedit-icon-32.jpg</file>
+    </qresource>
+    <qresource prefix="/img"/>
+</RCC>
